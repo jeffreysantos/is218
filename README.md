@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
@@ -91,3 +92,6 @@ the [guidelines](CONTRIBUTING.md):
 ## License
 
 The code is available under the [MIT license](LICENSE.txt).
+=======
+# is218
+>>>>>>> 80d81d2cea9739e6d3a2ab537e7efb6019777a28
